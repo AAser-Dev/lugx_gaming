@@ -1,0 +1,77 @@
+.hero-section{
+    background-image: url(https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/banner-bg.jpg);
+    border-radius: 0px 0px 150px 150px;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 0 67px 0;
+}
+.bottom-a{
+  bottom: -29%;
+}
+.m{
+  margin-top: -80px;
+}
+.s{
+  max-width: 44px;
+  background-color: #0071f8;
+}
+.imgaa{
+  width: 90px;
+    height: 90px;
+    display: inline-block;
+    text-align: center;
+    line-height: 90px;
+    background-color: #0071f8;
+    border-radius: 50%;
+    transition: all .3s;
+}
+.tra{
+  transition: all 0.3s ease;
+}
+.tran:hover .tra{
+  background-color: #ee626b;
+}
+.pointer{
+  cursor: pointer;
+}
+.pos{
+    top: -2%;
+    right: 12.9%;
+}
+.pos1{
+  bottom: -4.5%;
+  left: 12.9%;
+}
+.pos2{
+  top: -4%;
+    right: 2.9%;
+}
+.ms-6{
+  margin-left: 4.8rem;
+}
+.colore{
+  background-color: #ee626b;
+  transition: all 0.34s ease;
+}
+.par{
+  transition: all 0.34s ease;
+}
+.par:hover {
+  color: #0071f8; 
+}
+
+.par:hover i {
+  background-color: #0071f8; 
+}
+
+.par:hover a {
+  color: blue; 
+}
+
+.color{
+  color: #ee626b;
+}
+.bg-#f7f7f7{
+  background-color: #f7f7f7;
+}
